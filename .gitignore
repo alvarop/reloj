@@ -1,0 +1,11 @@
+_saved*
+gerber/
+*-bak
+*.bak
+*.zip
+*.net
+*.csv
+*.xml
+*.pdf
+_autosave*
+fp-info-cache
