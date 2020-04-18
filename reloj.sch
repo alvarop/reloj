@@ -2352,7 +2352,7 @@ DM_Q1
 Text Label 1000 7600 0    50   ~ 0
 DM_Q2
 Text Label 1000 7700 0    50   ~ 0
-DM_Q2
+DM_Q3
 Text Label 6600 7400 0    50   ~ 0
 DH_Q0
 Text Label 6600 7500 0    50   ~ 0
