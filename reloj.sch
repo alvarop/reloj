@@ -4,10 +4,10 @@ EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
-Title ""
-Date "2020-03-21"
+Title "Reloj"
+Date "2020-05-01"
 Rev "1.0"
-Comp ""
+Comp "alvarop.com"
 Comment1 ""
 Comment2 ""
 Comment3 ""
