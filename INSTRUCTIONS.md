@@ -7,6 +7,10 @@ Check the BOM and make sure you have all the required components.
 
 **NOTE:** The IC sockets are optional, but do make debugging, repair, etc. much simpler in the end. You will have to modify the sockets for U19-U22 to fit the 7-segment LED footprints.
 
+You can also watch a quick timelapse of the assembly here:
+
+[![Assembly timelapse](http://img.youtube.com/vi/cL3z2LXaWJE/0.jpg)](http://www.youtube.com/watch?v=cL3z2LXaWJE)
+
 ## Start Soldering!
 
 ![Bare board](pictures/IMG_6934.jpg)
