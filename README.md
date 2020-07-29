@@ -1,6 +1,6 @@
 # Reloj - 7400 Series Digital Clock
 
-This project was inspired by my dad's university digital systems project from the late 1970's. I found the writeup and schematic and decided to try and re-create it. You can see the results of the breadboard reproduction and explanations in [this twitter thread.](https://github.com/alvarop/reloj)
+This project was inspired by my dad's university digital systems project from the late 1970's. I found the writeup and schematic and decided to try and re-create it. You can see the results of the breadboard reproduction and explanations in [this twitter thread.](https://twitter.com/alvaroprieto/status/1239990814320680960)
 
 After a while, I figured it would be fun to make a soldering kit out of it, which resulted in this.
 
