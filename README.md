@@ -6,7 +6,7 @@ After a while, I figured it would be fun to make a soldering kit out of it, whic
 
 ![Reloj v1.2](pictures/IMG_6960.jpg)
 
-The design is fairly close to the original, but with the addition of a crystal-backed alternate clock source. The 555 timer cock source works, but drifts like crazy, so if you want to use it as an actual clock, you still can with the alt source.
+The design is fairly close to the original, but with the addition of a crystal-backed alternate clock source. The 555 timer clock source works, but drifts like crazy, so if you want to use it as an actual clock, you still can with the alt source.
 
 ![Paper front page](pictures/IMG_1828.jpg)
 
